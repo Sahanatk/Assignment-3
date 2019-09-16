@@ -1,0 +1,25 @@
+body{
+    width:960px;
+    margin-left:20px;
+    font: 1em Arial,Helvetica,Sans-serif;
+    line-height: 2em;
+    
+}
+h2{
+    color: #cc1c0d;
+    background-color: #dfe3e6;
+    border:2px solid darkgray;
+    padding-left: 10px;
+    border-radius: 6px;  
+}
+a{
+    color:#cc1c0d;
+}
+.pricing{
+   text-align: center;   
+}
+#vprospect,#vconvert,#vretain{
+    font-weight: bold;
+  
+}
+
