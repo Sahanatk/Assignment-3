@@ -30,11 +30,11 @@ a[href^='http']:link{
     color: darkorchid;
 }
 a[href^='http']:hover{
-    color:darkgreen;
+    color:deeppink;
     text-decoration: none;
 }
 a[href^='http']:visited{
- text-decoration: aqua;
+ color:darkgreen;
 }
 
 ul{
